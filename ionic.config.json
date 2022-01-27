@@ -1,0 +1,7 @@
+{
+  "name": "monthly-calendar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
