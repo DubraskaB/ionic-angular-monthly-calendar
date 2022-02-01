@@ -5,6 +5,11 @@
   right: 0;
   top: 45%;
   transform: translateY(-50%);
+  &-logo {
+    width: 200px;
+    height: auto;
+    padding: 3% 5%;
+  }
   &-text {
     font-weight: 500;
   }
